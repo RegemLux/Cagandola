@@ -3,3 +3,7 @@ const hola = (hola = undefined) => {
 }
 
 hola("kevin");
+
+alert("Sebastian estuvo aqui");
+
+variableSebas = "Toma 3 de github";
