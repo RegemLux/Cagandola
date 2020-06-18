@@ -5,3 +5,7 @@ const hola = (hola = undefined) => {
 hola("kevin");
 
 paraTodos("alv");
+alert("Sebastian estuvo aqui");
+
+variableSebas = "Toma 3 de github";
+
