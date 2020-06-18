@@ -3,3 +3,5 @@ const hola = (hola = undefined) => {
 }
 
 hola("kevin");
+
+alert("Sebastian estuvo aqui");
