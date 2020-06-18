@@ -1,1 +1,3 @@
-mi mama me mima
+<?php
+    $hi = "Esto es una prueba";
+?>
